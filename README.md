@@ -1,0 +1,2 @@
+# emoji-calculator
+Simple calculation
